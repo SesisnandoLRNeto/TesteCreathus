@@ -1,0 +1,56 @@
+
+    {
+     
+      "name": "Chariot",
+      "description": "Solução em transporte e abastecimento inteligente de insumos e produtos acabados em linhas de produção.",
+      "img": "https://creathus.org.br/wp-content/uploads/2019/09/4-1-1024x831.jpg",
+      "url": "https://creathus.org.br/contato/",
+      "createdAt": "2020-10-08T00:42:03.509Z",
+      "__v": 0
+    },
+    {
+     
+      "name": "Lean Warehouse",
+      "description": "Solução de automatização de transporte e abastecimento de insumos e produtos acabados nos estoques.",
+      "img": "https://creathus.org.br/wp-content/uploads/2019/09/3-1-300x244.jpg",
+      "url": "https://creathus.org.br/contato/",
+      "createdAt": "2020-10-08T00:42:38.065Z",
+      "__v": 0
+    },
+    {
+    
+      "name": "SysCare",
+      "description": "Solução em saúde e segurança ocupacional.",
+      "img": "https://creathus.org.br/wp-content/uploads/2019/09/5sys-300x244.jpg",
+      "url": "https://creathus.org.br/contato/",
+      "createdAt": "2020-10-08T00:43:22.965Z",
+      "__v": 0
+    },
+    {
+    
+      "name": "Pathfinder",
+      "description": "Solução em gerenciamento de transporte em tempo real (rotas para colaboradores)..",
+      "img": "https://creathus.org.br/wp-content/uploads/2019/09/1-1-300x244.jpg",
+      "url": "https://creathus.org.br/contato/",
+      "createdAt": "2020-10-08T15:09:27.021Z",
+      "__v": 0
+    },
+    {
+    
+      "name": "Keep on Track",
+      "description": "Solução em monitoramento e acompanhamento de informações e indicadores por meio de relatórios gerenciais gerados automaticamente.",
+      "img": "https://creathus.org.br/wp-content/uploads/2019/09/2-1-300x244.jpg",
+      "url": "https://creathus.org.br/contato/",
+      "createdAt": "2020-10-08T15:20:58.462Z",
+      "__v": 0
+    },
+    {
+      
+      "name": "Novo projeto",
+      "description": "Solucao nova.",
+      "img": "https://blog.handtalk.me/wp-content/uploads/2018/11/capa-blog-2.png",
+      "url": "https://creathus.org.br/contato/",
+      "createdAt": "2020-10-08T20:54:52.166Z",
+      "__v": 0
+    }
+
