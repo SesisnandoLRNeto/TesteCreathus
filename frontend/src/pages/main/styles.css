@@ -1,0 +1,124 @@
+.details-list {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+.details-list .project-div {
+    background: #fff;
+    border: 1px solid #da552f;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.details-list div strong {
+    font-size: 24px;
+    color: 'black' ;
+    margin-top: 10px;
+    margin-bottom: 14px;
+    line-height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details-list div p {
+    font-size: 16px;
+    color:'black' ;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    text-align: center;
+    line-height: 24px;
+}
+
+.details-list div img {
+    max-width:200px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+    position: inherit;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #005a87;
+    border-radius: 5px;
+}
+
+.details-list div .buttons-div {
+    height: 10 0px;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #da552f;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details-list div a {
+   height: 42px;
+   border-radius: 5px;
+   border: 2px solid #da552f;
+   background: none;
+   margin-top: 10px;
+   color: #da552f;
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   transition: all 0.2s;
+}
+
+.details-list div a:hover {
+    background: #da552f;
+    color: #fff;
+ 
+ }
+
+ .details-list .actions  {
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 20px;
+ }
+
+ .details-list .actions button {
+     padding: 10px;
+     border-radius: 5px;
+     border: 0px;
+     background: #da552f;
+     color: #fff;
+     font-size: 16px;
+     font-weight: bold;
+     cursor: pointer;
+ }
+
+ .details-list .actions .button-cadastro {
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+    border: 0px;
+    background: #da552f;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+ .details-list .actions button[disabled] {
+    opacity: 0.5;
+    cursor: default;
+}
+
+.details-list .actions button[disabled]:hover {
+    opacity: 0.5;
+}
+
+ .details-list .actions button:hover {
+  opacity: 0.7;
+}
+
+.details-list .actions .button-cadastro:hover {
+    opacity: 0.7;
+  }

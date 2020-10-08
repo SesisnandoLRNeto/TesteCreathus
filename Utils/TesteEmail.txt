@@ -1,0 +1,25 @@
+1. Leia (consuma) via post, os dados em jason que esta api retorna;
+
+2. Imprima no console ou na web os dados de retorno;
+
+  
+-O código pode ser entregue no email: ronaldo.nascimentomartins@gmail.com 
+-em formato .zip 
+-para executar em um servidor de aplicação (tomcat ou outro de sua escolha) ou outro servidor.
+-Pede-se o script para criação do banco de dados (simples em formato txt). 
+
+Ou pode me enviar a url pra fazer o git clone do projeto no git hub.
+
+
+
+Boa sorte!
+
+Critérios de Avaliação:
+
+
+1. Organização e legibilidade do código;
+
+2. No frontend uso de um dos seguinte frameworks JavaScript: ReactJS, Angular ou VueJS
+
+
+Ronaldo Nascimento Martins - Sênior Developer 
